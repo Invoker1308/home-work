@@ -6,7 +6,9 @@
     ]
   },
   "ExpandedNodes": [
-    "\\out\\build"
+    "",
+    "\\sources"
   ],
+  "SelectedNode": "\\sources\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
