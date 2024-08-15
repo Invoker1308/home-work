@@ -1,0 +1,10 @@
+^B:\CODE BLOCK\PROJ\HOME-WORK\EXERCISE1\BUILD\CMAKEFILES\9E49EF030318D8832BA76D5F779E702F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SB:/Code Block/Proj/home-work/Exercise1" "-BB:/Code Block/Proj/home-work/Exercise1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "B:/Code Block/Proj/home-work/Exercise1/build/Project.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
