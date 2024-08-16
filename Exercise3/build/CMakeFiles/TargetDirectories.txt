@@ -1,0 +1,8 @@
+B:/Code Block/Proj/home-work/Exercise3/build/CMakeFiles/CandidateManagement.dir
+B:/Code Block/Proj/home-work/Exercise3/build/CMakeFiles/Candidate.dir
+B:/Code Block/Proj/home-work/Exercise3/build/CMakeFiles/GroupA.dir
+B:/Code Block/Proj/home-work/Exercise3/build/CMakeFiles/GroupB.dir
+B:/Code Block/Proj/home-work/Exercise3/build/CMakeFiles/GroupC.dir
+B:/Code Block/Proj/home-work/Exercise3/build/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise3/build/CMakeFiles/ALL_BUILD.dir
+B:/Code Block/Proj/home-work/Exercise3/build/CMakeFiles/ZERO_CHECK.dir

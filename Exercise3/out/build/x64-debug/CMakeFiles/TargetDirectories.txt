@@ -1,0 +1,8 @@
+B:/Code Block/Proj/home-work/Exercise3/out/build/x64-debug/CMakeFiles/CandidateManagement.dir
+B:/Code Block/Proj/home-work/Exercise3/out/build/x64-debug/CMakeFiles/Candidate.dir
+B:/Code Block/Proj/home-work/Exercise3/out/build/x64-debug/CMakeFiles/GroupA.dir
+B:/Code Block/Proj/home-work/Exercise3/out/build/x64-debug/CMakeFiles/GroupB.dir
+B:/Code Block/Proj/home-work/Exercise3/out/build/x64-debug/CMakeFiles/GroupC.dir
+B:/Code Block/Proj/home-work/Exercise3/out/build/x64-debug/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise3/out/build/x64-debug/CMakeFiles/edit_cache.dir
+B:/Code Block/Proj/home-work/Exercise3/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
