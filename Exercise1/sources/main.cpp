@@ -15,7 +15,7 @@ int main() {
     //position 1->3: 1 = worker, 2 = engineer, 3 = staff
     int option, position;
     vector<Employee*> Data;
-    EmployeeManagemnt EM;
+    EmployeeManagement EM;
     //loop until the user exits
     while (1) {
         //display 4 options

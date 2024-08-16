@@ -10,7 +10,7 @@
 using namespace std;
 
 
-class EmployeeManagemnt {
+class EmployeeManagement {
 
 public:
 

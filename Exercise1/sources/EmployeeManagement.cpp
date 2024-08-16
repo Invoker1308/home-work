@@ -3,7 +3,7 @@
 
 
 // add new employee to vector
-void EmployeeManagemnt::AddEmployee(vector<Employee*>& v, int p) {
+void EmployeeManagement::AddEmployee(vector<Employee*>& v, int p) {
     //set worker information
     if (p == 1) {
         v.push_back(new Worker);
@@ -22,7 +22,7 @@ void EmployeeManagemnt::AddEmployee(vector<Employee*>& v, int p) {
 }
 
 //search employee in vector
-void EmployeeManagemnt::SearchEmployee(vector<Employee*> v) {
+void EmployeeManagement::SearchEmployee(vector<Employee*> v) {
     string s;
     cout << "Enter the name you want to search for: ";
     cin >> s;
@@ -35,14 +35,14 @@ void EmployeeManagemnt::SearchEmployee(vector<Employee*> v) {
 }
 
 //display the list of employee
-void EmployeeManagemnt::DisplayList(vector<Employee*> v) {
+void EmployeeManagement::DisplayList(vector<Employee*> v) {
     cout << left << setw(8) << "Number" << setw(20) << "Name" << setw(5) << "Age" << setw(10) << "Sex" << setw(30) << "Address" << setw(20) << "Note" << endl;
     for (int i = 0;i < v.size();i++) {
         Display(v[i], i);
     }
 }
 
-void EmployeeManagemnt::Display(Employee* emPtr, int i) {
+void EmployeeManagement::Display(Employee* emPtr, int i) {
     if (emPtr->getId() == 1)
         cout << left << setw(8) << i + 1 << setw(20) << emPtr->getName() << setw(5) << emPtr->getAge() << setw(10) << emPtr->getSex() << setw(30) << emPtr->getAddress() << setw(7) << "Level: " << emPtr->GetSpecificInfo() << endl;
     if (emPtr->getId() == 2)
