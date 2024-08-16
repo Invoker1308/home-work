@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <iomanip>
+#include <string>
 using namespace std;
 
 class Document {
@@ -12,6 +13,7 @@ private:
 	int Id;
 	string Publisher;
 	int NumberReleased;
+	int Type;
 
 public:
 
@@ -29,9 +31,13 @@ public:
 
 	int getNumberReleased();
 
+	void setType(int x);
+
+	int getType();
+
 	virtual void Display() = 0;
 
-	virtual ~Document();
+	virtual ~Document(){}
 
 };
 

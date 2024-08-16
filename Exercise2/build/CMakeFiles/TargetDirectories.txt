@@ -2,6 +2,7 @@ B:/Code Block/Proj/home-work/Exercise2/build/CMakeFiles/Document.dir
 B:/Code Block/Proj/home-work/Exercise2/build/CMakeFiles/Book.dir
 B:/Code Block/Proj/home-work/Exercise2/build/CMakeFiles/Newspaper.dir
 B:/Code Block/Proj/home-work/Exercise2/build/CMakeFiles/Magazine.dir
+B:/Code Block/Proj/home-work/Exercise2/build/CMakeFiles/DocumentManagement.dir
 B:/Code Block/Proj/home-work/Exercise2/build/CMakeFiles/main.dir
 B:/Code Block/Proj/home-work/Exercise2/build/CMakeFiles/ALL_BUILD.dir
 B:/Code Block/Proj/home-work/Exercise2/build/CMakeFiles/ZERO_CHECK.dir

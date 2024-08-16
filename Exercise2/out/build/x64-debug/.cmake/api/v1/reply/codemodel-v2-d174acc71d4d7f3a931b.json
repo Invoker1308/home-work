@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Book::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Book-Debug-2e270f454f98ed7edf92.json",
+					"name" : "Book",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Document::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Document-Debug-e30a6fc6ed8f59f4f02e.json",
+					"name" : "Document",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DocumentManagement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DocumentManagement-Debug-300385f869f46fcb062c.json",
+					"name" : "DocumentManagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Magazine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Magazine-Debug-86effc06ba508d522e29.json",
+					"name" : "Magazine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Newspaper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Newspaper-Debug-4216287d979cfd229dbb.json",
+					"name" : "Newspaper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-c0785e04c3ee0ddcb955.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "B:/Code Block/Proj/home-work/Exercise2/out/build/x64-debug",
+		"source" : "B:/Code Block/Proj/home-work/Exercise2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

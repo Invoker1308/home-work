@@ -1,6 +1,7 @@
 
 #include "../headers/Magazine.hpp"
 
+//constructor
 Magazine::Magazine() {
 	cout << "Issue number: ";
 	cin >> IssueNumber;
@@ -8,6 +9,7 @@ Magazine::Magazine() {
 	cin >> IssueMonth;
 }
 
+//display issue number and month of magazine
 void Magazine::Display() {
-	cout << "Issue number: " << IssueNumber << "  " << "Issue month: " << IssueMonth << endl;
+	cout << left << "Issue number: " << setw(14) << IssueNumber << "  " << "Issue month: " << setw(4) << IssueMonth << endl;
 }

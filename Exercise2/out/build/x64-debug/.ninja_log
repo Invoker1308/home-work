@@ -1,0 +1,13 @@
+# ninja log v5
+76	1241	7454804306878241	CMakeFiles/Magazine.dir/sources/Magazine.cpp.obj	ad4487c02d353a41
+70	1255	7454804306868275	CMakeFiles/Newspaper.dir/sources/Newspaper.cpp.obj	2ba9093679e41b25
+97	1265	7454804306898181	CMakeFiles/main.dir/sources/main.cpp.obj	1d68fc18176eb25e
+41	1266	7454804306878241	CMakeFiles/Document.dir/sources/Document.cpp.obj	4b50507700541c36
+62	1280	7454804306898181	CMakeFiles/Book.dir/sources/Book.cpp.obj	5cd70da4eaa49d15
+85	1290	7454804306965814	CMakeFiles/DocumentManagement.dir/sources/DocumentManagement.cpp.obj	da9c4fee4d6c4762
+1255	1330	7454804307794482	Newspaper.lib	39b6932b9d3b7688
+1242	1331	7454804307816918	Magazine.lib	88d4ac9e18921d44
+1266	1331	7454804307794482	Document.lib	e41b02aa591db028
+1280	1338	7454804307899007	Book.lib	b2dd2a12911bf61a
+1290	1346	7454804307999541	DocumentManagement.lib	4626de156b78a14c
+1347	1763	7454804311756342	main.exe	cad8f8aacc11358e

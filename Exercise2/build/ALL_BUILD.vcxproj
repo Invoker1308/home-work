@@ -181,6 +181,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{9E3D801F-CDA2-3E01-B46C-8F58D3277E19}</Project>
       <Name>Document</Name>
     </ProjectReference>
+    <ProjectReference Include="B:\Code Block\Proj\home-work\Exercise2\build\DocumentManagement.vcxproj">
+      <Project>{AAE17FF4-C200-305E-B653-9C8130588DB2}</Project>
+      <Name>DocumentManagement</Name>
+    </ProjectReference>
     <ProjectReference Include="B:\Code Block\Proj\home-work\Exercise2\build\Magazine.vcxproj">
       <Project>{B1617E75-E2A9-3394-9503-09778773DD41}</Project>
       <Name>Magazine</Name>

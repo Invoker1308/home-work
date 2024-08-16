@@ -2,13 +2,14 @@
 #ifndef BOOK_H_INCLUDED
 #define BOOK_H_INCLUDED
 
-
+#include "Document.hpp"
 
 #include <iostream>
-#include "Document.hpp"
+#include <string>
+
 using namespace std;
 
-class Book {
+class Book : public Document {
 
 private:
 

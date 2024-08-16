@@ -177,13 +177,47 @@ build Magazine.lib: CXX_STATIC_LIBRARY_LINKER__Magazine_Debug CMakeFiles\Magazin
   TARGET_PDB = Magazine.pdb
 
 # =============================================================================
+# Object build statements for STATIC_LIBRARY target DocumentManagement
+
+
+#############################################
+# Order-only phony target for DocumentManagement
+
+build cmake_object_order_depends_target_DocumentManagement: phony || CMakeFiles\DocumentManagement.dir
+
+build CMakeFiles\DocumentManagement.dir\sources\DocumentManagement.cpp.obj: CXX_COMPILER__DocumentManagement_unscanned_Debug B$:\Code$ Block\Proj\home-work\Exercise2\sources\DocumentManagement.cpp || cmake_object_order_depends_target_DocumentManagement
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1
+  OBJECT_DIR = CMakeFiles\DocumentManagement.dir
+  OBJECT_FILE_DIR = CMakeFiles\DocumentManagement.dir\sources
+  TARGET_COMPILE_PDB = CMakeFiles\DocumentManagement.dir\DocumentManagement.pdb
+  TARGET_PDB = DocumentManagement.pdb
+
+
+# =============================================================================
+# Link build statements for STATIC_LIBRARY target DocumentManagement
+
+
+#############################################
+# Link the static library DocumentManagement.lib
+
+build DocumentManagement.lib: CXX_STATIC_LIBRARY_LINKER__DocumentManagement_Debug CMakeFiles\DocumentManagement.dir\sources\DocumentManagement.cpp.obj
+  LANGUAGE_COMPILE_FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1
+  LINK_FLAGS = /machine:x64
+  OBJECT_DIR = CMakeFiles\DocumentManagement.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\DocumentManagement.dir\DocumentManagement.pdb
+  TARGET_FILE = DocumentManagement.lib
+  TARGET_PDB = DocumentManagement.pdb
+
+# =============================================================================
 # Object build statements for EXECUTABLE target main
 
 
 #############################################
 # Order-only phony target for main
 
-build cmake_object_order_depends_target_main: phony || cmake_object_order_depends_target_Book cmake_object_order_depends_target_Document cmake_object_order_depends_target_Magazine cmake_object_order_depends_target_Newspaper
+build cmake_object_order_depends_target_main: phony || cmake_object_order_depends_target_Book cmake_object_order_depends_target_Document cmake_object_order_depends_target_DocumentManagement cmake_object_order_depends_target_Magazine cmake_object_order_depends_target_Newspaper
 
 build CMakeFiles\main.dir\sources\main.cpp.obj: CXX_COMPILER__main_unscanned_Debug B$:\Code$ Block\Proj\home-work\Exercise2\sources\main.cpp || cmake_object_order_depends_target_main
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1
@@ -200,10 +234,10 @@ build CMakeFiles\main.dir\sources\main.cpp.obj: CXX_COMPILER__main_unscanned_Deb
 #############################################
 # Link the executable main.exe
 
-build main.exe: CXX_EXECUTABLE_LINKER__main_Debug CMakeFiles\main.dir\sources\main.cpp.obj | Document.lib Book.lib Newspaper.lib Magazine.lib || Book.lib Document.lib Magazine.lib Newspaper.lib
+build main.exe: CXX_EXECUTABLE_LINKER__main_Debug CMakeFiles\main.dir\sources\main.cpp.obj | Document.lib Book.lib Newspaper.lib Magazine.lib DocumentManagement.lib || Book.lib Document.lib DocumentManagement.lib Magazine.lib Newspaper.lib
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
-  LINK_LIBRARIES = Document.lib  Book.lib  Newspaper.lib  Magazine.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  LINK_LIBRARIES = Document.lib  Book.lib  Newspaper.lib  Magazine.lib  DocumentManagement.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
   OBJECT_DIR = CMakeFiles\main.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
@@ -242,6 +276,8 @@ build Book: phony Book.lib
 
 build Document: phony Document.lib
 
+build DocumentManagement: phony DocumentManagement.lib
+
 build Magazine: phony Magazine.lib
 
 build Newspaper: phony Newspaper.lib
@@ -256,7 +292,7 @@ build main: phony main.exe
 #############################################
 # Folder: B:/Code Block/Proj/home-work/Exercise2/out/build/x64-debug
 
-build all: phony Document.lib Book.lib Newspaper.lib Magazine.lib main.exe
+build all: phony Document.lib Book.lib Newspaper.lib Magazine.lib DocumentManagement.lib main.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.

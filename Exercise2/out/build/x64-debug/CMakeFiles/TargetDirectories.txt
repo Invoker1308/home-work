@@ -2,6 +2,7 @@ B:/Code Block/Proj/home-work/Exercise2/out/build/x64-debug/CMakeFiles/Document.d
 B:/Code Block/Proj/home-work/Exercise2/out/build/x64-debug/CMakeFiles/Book.dir
 B:/Code Block/Proj/home-work/Exercise2/out/build/x64-debug/CMakeFiles/Newspaper.dir
 B:/Code Block/Proj/home-work/Exercise2/out/build/x64-debug/CMakeFiles/Magazine.dir
+B:/Code Block/Proj/home-work/Exercise2/out/build/x64-debug/CMakeFiles/DocumentManagement.dir
 B:/Code Block/Proj/home-work/Exercise2/out/build/x64-debug/CMakeFiles/main.dir
 B:/Code Block/Proj/home-work/Exercise2/out/build/x64-debug/CMakeFiles/edit_cache.dir
 B:/Code Block/Proj/home-work/Exercise2/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
