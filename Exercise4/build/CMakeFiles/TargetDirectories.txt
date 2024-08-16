@@ -1,0 +1,6 @@
+B:/Code Block/Proj/home-work/Exercise4/build/CMakeFiles/Person.dir
+B:/Code Block/Proj/home-work/Exercise4/build/CMakeFiles/Family.dir
+B:/Code Block/Proj/home-work/Exercise4/build/CMakeFiles/Neighborhood.dir
+B:/Code Block/Proj/home-work/Exercise4/build/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise4/build/CMakeFiles/ALL_BUILD.dir
+B:/Code Block/Proj/home-work/Exercise4/build/CMakeFiles/ZERO_CHECK.dir
