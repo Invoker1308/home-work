@@ -1,0 +1,6 @@
+B:/Code Block/Proj/home-work/Exercise7/build/CMakeFiles/Faculty.dir
+B:/Code Block/Proj/home-work/Exercise7/build/CMakeFiles/Person.dir
+B:/Code Block/Proj/home-work/Exercise7/build/CMakeFiles/Teacher.dir
+B:/Code Block/Proj/home-work/Exercise7/build/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise7/build/CMakeFiles/ALL_BUILD.dir
+B:/Code Block/Proj/home-work/Exercise7/build/CMakeFiles/ZERO_CHECK.dir
