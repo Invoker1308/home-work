@@ -46,7 +46,7 @@ int main() {
             hotel.Display();
         }
 
-        //option 3: calculate room fee
+        //option 4: calculate room fee
         if (option == 4) {
             cout << "ID: ";
             cin >> id;
