@@ -4,11 +4,8 @@
 //constructor
 Document::Document() {
 	setId();
-	getId();
 	setPublisher();
-	getPublisher();
 	setNumberReleased();
-	getNumberReleased();
 }
 
 //set id for document
