@@ -1,0 +1,6 @@
+B:/Code Block/Proj/home-work/Exercise8/out/build/x64-debug/CMakeFiles/Student.dir
+B:/Code Block/Proj/home-work/Exercise8/out/build/x64-debug/CMakeFiles/LibCard.dir
+B:/Code Block/Proj/home-work/Exercise8/out/build/x64-debug/CMakeFiles/Library.dir
+B:/Code Block/Proj/home-work/Exercise8/out/build/x64-debug/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise8/out/build/x64-debug/CMakeFiles/edit_cache.dir
+B:/Code Block/Proj/home-work/Exercise8/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

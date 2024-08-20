@@ -1,0 +1,83 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LibCard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LibCard-Debug-b9cab0d100a5adad2876.json",
+					"name" : "LibCard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Library::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Library-Debug-e8fd1ee6153e17dd336d.json",
+					"name" : "Library",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Student::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Student-Debug-f457b8831fe923b379e5.json",
+					"name" : "Student",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-16edd6f2d6bdee52a690.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "B:/Code Block/Proj/home-work/Exercise8/out/build/x64-debug",
+		"source" : "B:/Code Block/Proj/home-work/Exercise8"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
