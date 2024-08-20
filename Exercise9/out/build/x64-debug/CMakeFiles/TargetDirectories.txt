@@ -1,0 +1,6 @@
+B:/Code Block/Proj/home-work/Exercise9/out/build/x64-debug/CMakeFiles/Customer.dir
+B:/Code Block/Proj/home-work/Exercise9/out/build/x64-debug/CMakeFiles/Receipt.dir
+B:/Code Block/Proj/home-work/Exercise9/out/build/x64-debug/CMakeFiles/ReceiptManagement.dir
+B:/Code Block/Proj/home-work/Exercise9/out/build/x64-debug/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise9/out/build/x64-debug/CMakeFiles/edit_cache.dir
+B:/Code Block/Proj/home-work/Exercise9/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

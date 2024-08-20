@@ -1,0 +1,83 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Customer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Customer-Debug-f2fcc4362758927c887b.json",
+					"name" : "Customer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Receipt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Receipt-Debug-0d9192a128585da453db.json",
+					"name" : "Receipt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ReceiptManagement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReceiptManagement-Debug-99fb31e42fadcf038871.json",
+					"name" : "ReceiptManagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-9b86adc17cf58f8cef11.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "B:/Code Block/Proj/home-work/Exercise9/out/build/x64-debug",
+		"source" : "B:/Code Block/Proj/home-work/Exercise9"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
