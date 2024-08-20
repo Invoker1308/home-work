@@ -4,6 +4,7 @@
 Person::Person() {
 	setFullName();
 	setAge();
+	setHometown();
 	setId();
 }
 
