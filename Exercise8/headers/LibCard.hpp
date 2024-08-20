@@ -37,8 +37,6 @@ public:
 
 	int getBookId();
 
-	virtual ~LibCard() {}
-
 };
 
 
