@@ -1,0 +1,4 @@
+B:/Code Block/Proj/home-work/Exercise10/build/CMakeFiles/Document.dir
+B:/Code Block/Proj/home-work/Exercise10/build/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise10/build/CMakeFiles/ALL_BUILD.dir
+B:/Code Block/Proj/home-work/Exercise10/build/CMakeFiles/ZERO_CHECK.dir

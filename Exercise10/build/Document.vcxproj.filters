@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="B:\Code Block\Proj\home-work\Exercise10\sources\Document.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="B:\Code Block\Proj\home-work\Exercise10\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B56CB5B1-53D5-3DB5-A970-1A2F510014D9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
