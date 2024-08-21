@@ -25,7 +25,7 @@ int main() {
         cin >> option;
         //if users choose option don't have, rechoose
         while (option < 1 || option > 6) {
-            cout << "Please select a feature from 1 to 5." << endl;
+            cout << "Please select a feature from 1 to 6." << endl;
             cout << "Your option: ";
             cin >> option;
         }

@@ -1,4 +1,4 @@
-#include "../headers/Receiptmanagement.hpp"
+#include "../headers/ReceiptManagement.hpp"
 
 //Add a new receipt by meter's ID
 void ReceiptManagement::AddById() {
