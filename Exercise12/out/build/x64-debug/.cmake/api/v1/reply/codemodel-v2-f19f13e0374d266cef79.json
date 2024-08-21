@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Car::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Car-Debug-79b54a58ec0ba9260b5f.json",
+					"name" : "Car",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Motorbike::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Motorbike-Debug-9c95e8b003f866a9745f.json",
+					"name" : "Motorbike",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Transportation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Transportation-Debug-84b4ece6343c67d52fce.json",
+					"name" : "Transportation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TransportationManagement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TransportationManagement-Debug-70ed7910335e4928132c.json",
+					"name" : "TransportationManagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Truck::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Truck-Debug-d927b59058d5ebba6655.json",
+					"name" : "Truck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-ad40fd624a9bff5efa64.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "B:/Code Block/Proj/home-work/Exercise12/out/build/x64-debug",
+		"source" : "B:/Code Block/Proj/home-work/Exercise12"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

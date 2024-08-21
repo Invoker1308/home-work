@@ -1,0 +1,8 @@
+B:/Code Block/Proj/home-work/Exercise12/out/build/x64-debug/CMakeFiles/Transportation.dir
+B:/Code Block/Proj/home-work/Exercise12/out/build/x64-debug/CMakeFiles/Car.dir
+B:/Code Block/Proj/home-work/Exercise12/out/build/x64-debug/CMakeFiles/Motorbike.dir
+B:/Code Block/Proj/home-work/Exercise12/out/build/x64-debug/CMakeFiles/Truck.dir
+B:/Code Block/Proj/home-work/Exercise12/out/build/x64-debug/CMakeFiles/TransportationManagement.dir
+B:/Code Block/Proj/home-work/Exercise12/out/build/x64-debug/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise12/out/build/x64-debug/CMakeFiles/edit_cache.dir
+B:/Code Block/Proj/home-work/Exercise12/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

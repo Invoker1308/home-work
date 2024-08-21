@@ -1,0 +1,8 @@
+B:/Code Block/Proj/home-work/Exercise12/build/CMakeFiles/Transportation.dir
+B:/Code Block/Proj/home-work/Exercise12/build/CMakeFiles/Car.dir
+B:/Code Block/Proj/home-work/Exercise12/build/CMakeFiles/Motorbike.dir
+B:/Code Block/Proj/home-work/Exercise12/build/CMakeFiles/Truck.dir
+B:/Code Block/Proj/home-work/Exercise12/build/CMakeFiles/TransportationManagement.dir
+B:/Code Block/Proj/home-work/Exercise12/build/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise12/build/CMakeFiles/ALL_BUILD.dir
+B:/Code Block/Proj/home-work/Exercise12/build/CMakeFiles/ZERO_CHECK.dir
