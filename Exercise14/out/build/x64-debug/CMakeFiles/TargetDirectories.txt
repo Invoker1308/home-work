@@ -1,0 +1,7 @@
+B:/Code Block/Proj/home-work/Exercise14/out/build/x64-debug/CMakeFiles/Student.dir
+B:/Code Block/Proj/home-work/Exercise14/out/build/x64-debug/CMakeFiles/NormalStudent.dir
+B:/Code Block/Proj/home-work/Exercise14/out/build/x64-debug/CMakeFiles/GoodStudent.dir
+B:/Code Block/Proj/home-work/Exercise14/out/build/x64-debug/CMakeFiles/StudentManagement.dir
+B:/Code Block/Proj/home-work/Exercise14/out/build/x64-debug/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise14/out/build/x64-debug/CMakeFiles/edit_cache.dir
+B:/Code Block/Proj/home-work/Exercise14/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
