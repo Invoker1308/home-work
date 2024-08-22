@@ -1,0 +1,8 @@
+B:/Code Block/Proj/home-work/Exercise13/out/build/x64-debug/CMakeFiles/Employee.dir
+B:/Code Block/Proj/home-work/Exercise13/out/build/x64-debug/CMakeFiles/Experience.dir
+B:/Code Block/Proj/home-work/Exercise13/out/build/x64-debug/CMakeFiles/Fresher.dir
+B:/Code Block/Proj/home-work/Exercise13/out/build/x64-debug/CMakeFiles/Intern.dir
+B:/Code Block/Proj/home-work/Exercise13/out/build/x64-debug/CMakeFiles/EmployeeManagement.dir
+B:/Code Block/Proj/home-work/Exercise13/out/build/x64-debug/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise13/out/build/x64-debug/CMakeFiles/edit_cache.dir
+B:/Code Block/Proj/home-work/Exercise13/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
