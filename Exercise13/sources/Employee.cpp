@@ -40,6 +40,10 @@ void Employee::setBirthDay() {
 	cout << "Birthday(DD/MM/YYYY): ";
 	getline(cin, BirthDay);
 	//birthday exception
+	if (BirthDay.size() != 10) {
+		throw std::invalid_argument("Birthday exception: Format is wrong");
+		return;
+	}
 	if (stoi(BirthDay.substr(0, 2)) < 1 || stoi(BirthDay.substr(0, 2)) > 31)
 		throw std::invalid_argument("Birthday exception: Day is wrong");
 	else if (stoi(BirthDay.substr(3, 5)) < 1 || stoi(BirthDay.substr(3, 5)) > 12)

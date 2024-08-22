@@ -17,18 +17,20 @@ bool EmployeeManagement::AddEmployee(vector<Employee*>& v, int p) {
             v.push_back(new Intern);
             v[v.size() - 1]->setEmployeeType(2);
         }
+        //set : UniqueId, use set to check id already exits?
+        UniqueId.insert(v[v.size() - 1]->getId());
+        if (UniqueId.count(v[v.size() - 1]->getId()) > 1) {
+            v.pop_back();
+            return false;
+        }
+        return true;
     }
     catch (std::exception& s) {
         cout << s.what() << endl;
+        return true;
     }
 
-    //set : UniqueId, use set to check id already exits?
-    UniqueId.insert(v[v.size() - 1]->getId());
-    if (UniqueId.count(v[v.size() - 1]->getId()) > 1) {
-        v.pop_back();
-        return false;
-    }
-    return true;
+    
 }
 
 //display all employees
