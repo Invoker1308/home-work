@@ -1,0 +1,8 @@
+B:/Code Block/Proj/home-work/Exercise15/build/CMakeFiles/Student.dir
+B:/Code Block/Proj/home-work/Exercise15/build/CMakeFiles/InServiceStudent.dir
+B:/Code Block/Proj/home-work/Exercise15/build/CMakeFiles/FacultyManagement.dir
+B:/Code Block/Proj/home-work/Exercise15/build/CMakeFiles/Result.dir
+B:/Code Block/Proj/home-work/Exercise15/build/CMakeFiles/StudentManagement.dir
+B:/Code Block/Proj/home-work/Exercise15/build/CMakeFiles/main.dir
+B:/Code Block/Proj/home-work/Exercise15/build/CMakeFiles/ALL_BUILD.dir
+B:/Code Block/Proj/home-work/Exercise15/build/CMakeFiles/ZERO_CHECK.dir
